@@ -13,7 +13,7 @@ pipeline {
   -Dsonar.projectKey=Petcliinic \\
   -Dsonar.projectName=\'Petcliinic\' \\
   -Dsonar.host.url=http://172.31.16.5:9000 \\
-  -Dsonar.token=sqp_f7dce25fa7beb238ee716ba3ccb666939266e9f9'''
+  -Dsonar.token=sqp_e528eb2187ffc09372eb1755bb21a8bd9054c9ba'''
       }
     }
 
